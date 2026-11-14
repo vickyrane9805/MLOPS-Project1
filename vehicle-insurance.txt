@@ -1,0 +1,14 @@
+vehicle-insurance
+MongoDB
+
+Username
+vivekrane9805_db_user
+
+Password
+1bNkZNvFBWl2SSD2
+
+3. Connect to your MongoDB deployment.
+Paste your connection string into the Command Palette.
+
+Show Password
+mongodb+srv://<db_username>:1bNkZNvFBWl2SSD2@cluster0.v60f1rj.mongodb.net/
